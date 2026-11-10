@@ -1,4 +1,4 @@
-# IPTV Bridge — Cloudflare Worker
+# IPTV Bridge — Cloudflare Worker 
 
 Edge rewrite of the IPTV Bridge Stremio/Nuvio addon. **Per-user model**: every
 user brings their own Xtream/M3U credentials, compressed into their manifest URL
